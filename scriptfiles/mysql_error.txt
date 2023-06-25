@@ -1,0 +1,24 @@
+[2023-06-25 22:46]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT * FROM arrestpoints
+Error: Table 'devtest.arrestpoints' doesn't exist
+
+[2023-06-25 22:46]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT * FROM `crates`
+Error: Table 'devtest.crates' doesn't exist
+
+[2023-06-25 22:46]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT * FROM `gangtags`
+Error: Table 'devtest.gangtags' doesn't exist
+
+[2023-06-25 22:46]
+Error ID: 1146
+Callback: OnQueryFinished
+Query: SELECT * FROM `gates`
+Error: Table 'devtest.gates' doesn't exist
+
